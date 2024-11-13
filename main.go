@@ -14,6 +14,7 @@ type Stock struct {
 }
 
 func main() {
+	//The company shorthand names you can add to this array
 	tickers := []string{
 		"RIVN",
 		"SPOT",
